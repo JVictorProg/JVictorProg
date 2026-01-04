@@ -2,7 +2,7 @@
 
 <h4> Desenvolvedor backend progredindo no conhecimento 😁</h4>
 
-- 🔭 Atualmente trabalhando como analista desenvolvedor júnior
+- 🔭 Atualmente buscando oportunidade como analista desenvolvedor júnior
 - 🌱 Atualmente estou aprendendo Node.js
 - 💬 Pergunte-me sobre Node.js, JavaScript, MySQL e MongoDB.
   
